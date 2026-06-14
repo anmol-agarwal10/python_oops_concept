@@ -1,0 +1,135 @@
+1. PYTHON
+
+   * OOPS
+
+     1. Class & Object ✔️
+
+        * Class
+        * Object
+        * Constructor (**init**)
+        * self keyword
+
+     2. Instance Variables & Instance Methods ✔️
+
+        * Instance variables
+        * Instance methods
+        * Accessing instance members
+
+     3. Class Variables & Class Methods ✔️
+
+        * Class variables
+        * @classmethod
+        * cls keyword
+        * Difference between instance and class members
+
+     4. Static Methods ✔️
+
+        * @staticmethod
+        * Utility methods
+        * Difference from class methods
+
+     5. Encapsulation ✔️
+
+        * Public members
+        * Protected members (_var)
+        * Private members (__var)
+        * Name mangling
+
+     6. Abstraction✔️
+
+        * Abstract Base Class (ABC)
+        * @abstractmethod
+        * Why abstraction?
+        * Interface-like behavior
+        * we dont create the abstract class instance (important)
+
+     7. Inheritance ✔️
+
+        * Single Inheritance
+        * Multilevel Inheritance
+        * Multiple Inheritance
+        * Hierarchical Inheritance
+        * Hybrid Inheritance
+        * super()
+
+     8. Method Overriding ✔️
+
+        * Redefining parent methods
+        * Runtime polymorphism
+
+     9. Polymorphism (Method Overriding)✔️
+
+        * Method Overriding
+        * Duck Typing
+        * Operator Overloading
+        * Method Overloading (workarounds in Python)
+
+     10. Constructor Overloading✔️
+
+         * Default arguments
+         * *args and **kwargs
+
+     11. Operator Overloading✔️
+
+         * Magic/Dunder methods
+         * **add**
+         * **sub**
+         * **mul**
+         * **str**
+         * **len**
+
+     12. Getter / Setter / Deleter ✔️
+
+         * property()
+         * @property
+         * @setter
+         * @deleter
+
+     13. Composition vs Inheritance ✔️
+
+         * HAS-A relationship
+         * IS-A relationship
+         * Advantages and disadvantages
+
+     14. Association
+
+         * One-to-One
+         * One-to-Many
+         * Aggregation
+
+     15. Aggregation
+
+         * Weak relationship
+         * Object dependency
+
+     16. Magic (Dunder) Methods
+
+         * **init**
+         * **str**
+         * **repr**
+         * **len**
+         * **call**
+         * **del**
+
+     17. Access Modifiers
+
+         * Public
+         * Protected
+         * Private
+
+     18. MRO (Method Resolution Order)
+
+         * Diamond Problem
+         * mro()
+         * C3 Linearization
+
+     27. Interview-Based OOP Questions
+
+         * Composition vs Aggregation
+         * Method Overloading vs Overriding
+         * Class Method vs Static Method
+         * Abstract Class vs Interface Concept
+         * Multiple Inheritance Problems
+         * MRO
+         * Diamond Problem
+         * Duck Typing
